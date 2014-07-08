@@ -1,3 +1,5 @@
+#!/bin/bash
+
 latest=0
 nvidia304=0
 nvidia173=0
